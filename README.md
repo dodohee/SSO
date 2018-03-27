@@ -10,7 +10,6 @@ Before you try to login, please try to click "Okta Secured" menu on the "Main We
 
 The Main Web has "Login" link enabled where you can click to login with
 
-user: aaa@aaa.com
-pass: Abcd1234  (case sensitive)
+user: aaa@aaa.com, password: Abcd1234  (case sensitive)
 
 After login successfully, click "Okta Secured" menu again to see what happens.
